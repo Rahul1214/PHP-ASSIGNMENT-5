@@ -13,7 +13,7 @@
     <title>Cookies</title>
 </head>
 <body style="background-color: black;color: yellow;">
-<center><h1>FILES</h1></center><hr color="red">
+<center><h1>Cookies</h1></center><hr color="red">
 <div id="second"  style="text-align:left">
     <h1>------ABC FLIGHTS------</h1>
     <BR>
